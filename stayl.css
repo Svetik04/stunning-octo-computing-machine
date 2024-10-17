@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "Roboto Mono";
+    src: url(https://fonts.google.com/specimen/Roboto+Mono);
+}
+
+
+
+body{
+    display: block;
+    background: url(img/bggggg.jpg);
+    font-family:  "Roboto Mono";
+    font-weight: 400;
+}
+
+.boxxx{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    /* background: #eef7f7; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2300px;
+    height: 1600px;
+    border-radius: 10%;
+    font-family:  "Roboto Mono";
+    font-weight: 400;
+}
+
+.img{
+    width: 80%;
+    height: 80%;
+    border-radius: 10%;
+}
+
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    margin: -50px;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+}
+
+.osb{
+    /* margin: 40px; */
+    font-family:  "Roboto Mono";
+    font-weight: 400;
+}
+
+.mr{
+    font-size: 35px;
+    font-family:  "Roboto Mono";
+}
+
+.inf_1{
+    font-size: 30px;
+    font-family:  "Roboto Mono";
+}
